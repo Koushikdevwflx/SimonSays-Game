@@ -1,5 +1,5 @@
 ## ABOUT
-I re-created the Netflix landing page UI design using `HTML`, `CSS` and a bit of `JavaScript` for the tabs. I use modern CSS3+ techniques like Grid, Flex, overlays, shadows, etc
+A web-based implementation of the classic "Simon Says" game.Test your memory and reaction skills by repeating the sequence of colors.It is made using `HTML`, `CSS` and `JavaScript'.
 
 ## Built With
 * HTML
