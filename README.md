@@ -1,5 +1,6 @@
 ## ABOUT
-A web-based implementation of the classic "Simon Says" game.Test your memory and reaction skills by repeating the sequence of colors.It is made using `HTML`, `CSS` and `JavaScript'.
+A web-based implementation of the classic "Simon Says" game.Test your memory and reaction skills by repeating the sequence of colors.
+It is made using `HTML`, `CSS` and `JavaScript'.
 
 ## Built With
 * HTML
